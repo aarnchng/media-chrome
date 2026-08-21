@@ -29,8 +29,6 @@ _From [Mux](https://mux.com?utm_source=github&utm_medium=social&utm_campaign=med
 
 Visit the [official documentation for Media Chrome](https://media-chrome.org/docs) for the latest up-to-date usage instructions.
 
-You can find the [documentation for v0.x of media-chrome here.](https://v0.media-chrome.org/en/get-started)
-
 ## Examples
 
 <a href="https://media-chrome.mux.dev/examples/vanilla/" target="_blank">See all of the repo examples in action.</a>
